@@ -1,2 +1,2 @@
 # klebario
-A fan version of Agar.io created for education purposes.
+A fun version of Agar.io created for education purposes.
